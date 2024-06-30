@@ -39,8 +39,5 @@ The dataset were used from kaggle.
 | -------------- | ------------------------ | -------- |
 | Kidney-Disease       | Machine Learning Model   | 98.33%   |
 
-## I Hope this Will be Useful to practise the Machine Learning.
-- If you like this Project - Give me a Star⭐⭐
-- For more Intresting Project, Follow me in Github
-- [LinkedIN](https://www.linkedin.com/in/marina-reda-863643250/)
+
 #### Best regards
